@@ -7,7 +7,7 @@
 
 ##### CSS
 
-- Link de referencia:
+- Links de referencia:
     
     [https://www.w3schools.com/css/css_grid_container.asp](https://www.w3schools.com/css/css_grid_container.asp)
 
