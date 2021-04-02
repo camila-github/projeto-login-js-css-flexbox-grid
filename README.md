@@ -8,6 +8,7 @@
 ##### CSS
 
 - Link de referencia:
+    
     [https://www.w3schools.com/css/css_grid_container.asp](https://www.w3schools.com/css/css_grid_container.asp)
 
     [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
@@ -20,6 +21,7 @@
 ##### FONTAWESOME
 
 - Biblioteca de icones
+
     [https://fontawesome.com/](https://fontawesome.com/)
 
 
@@ -30,4 +32,4 @@
 
 ## Site Publicado no link abaixo:
   
-"# projeto-login-js-css-flexbox-grid" 
+   [https://camila-github.github.io/projeto-login-js-css-flexbox-grid/.](https://camila-github.github.io/projeto-login-js-css-flexbox-grid/.)
