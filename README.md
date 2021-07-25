@@ -32,4 +32,4 @@
 
 ## Site Publicado no link abaixo:
   
-   [https://camila-github.github.io/projeto-login-js-css-flexbox-grid/.](https://camila-github.github.io/projeto-login-js-css-flexbox-grid/.)
+   [https://camila-github.github.io/projeto-login-js-css-flexbox-grid/](https://camila-github.github.io/projeto-login-js-css-flexbox-grid/)
