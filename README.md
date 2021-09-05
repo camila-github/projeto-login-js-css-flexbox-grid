@@ -25,9 +25,9 @@
     [https://fontawesome.com/](https://fontawesome.com/)
 ## Site Publicado no link abaixo:
   
-   []()
+   [https://camila-github.github.io/projeto-login-js-css-flexbox-grid/](https://camila-github.github.io/projeto-login-js-css-flexbox-grid/)
 
 ## Vídeo de demonstração do aplicativo
 <p align="center">
-   <img src=""/>
+   <img src="https://github.com/camila-github/projeto-login-js-css-flexbox-grid/blob/main/docs/video-.gif"/>
 </p>
