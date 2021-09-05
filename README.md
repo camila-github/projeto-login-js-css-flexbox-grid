@@ -20,9 +20,14 @@
 
     [https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
-- FONTAWESOME
+- Fontawesome
 
     [https://fontawesome.com/](https://fontawesome.com/)
+
+- Link complemento de aprendizado
+   
+   Canal youtube TrueCoder: [https://www.youtube.com/watch?v=piG91X4sV2U&list=PLSH1HC2U7xPoi02VHgIuroPMYLMnhzrC8&index=15](https://www.youtube.com/watch?v=piG91X4sV2U&list=PLSH1HC2U7xPoi02VHgIuroPMYLMnhzrC8&index=15)
+   
 ## Site Publicado no link abaixo:
   
    []()
