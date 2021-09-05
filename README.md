@@ -27,12 +27,16 @@
 - Link complemento de aprendizado
    
    Canal youtube TrueCoder: [https://www.youtube.com/watch?v=piG91X4sV2U&list=PLSH1HC2U7xPoi02VHgIuroPMYLMnhzrC8&index=15](https://www.youtube.com/watch?v=piG91X4sV2U&list=PLSH1HC2U7xPoi02VHgIuroPMYLMnhzrC8&index=15)
-   
+
 ## Site Publicado no link abaixo:
   
    [https://camila-github.github.io/projeto-login-js-css-flexbox-grid/](https://camila-github.github.io/projeto-login-js-css-flexbox-grid/)
 
 ## Vídeo de demonstração do aplicativo
 <p align="center">
-   <img src="https://github.com/camila-github/projeto-login-js-css-flexbox-grid/blob/main/docs/video-.gif"/>
+   <img src="https://github.com/camila-github/projeto-login-js-css-flexbox-grid/blob/main/docs/video1-.gif"/>
+</p>
+
+<p align="center">
+   <img src="https://github.com/camila-github/projeto-login-js-css-flexbox-grid/blob/main/docs/video2-.gif"/>
 </p>
